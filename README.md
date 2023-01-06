@@ -14,4 +14,4 @@ I’m currently studying Computer Science at Estácio de Sá University<br>in Ni
 
 ---
 [![](https://visitcount.itsvg.in/api?id=victorCoutoDeRezende&icon=2&color=5)](https://visitcount.itsvg.in)
-![Snake animation](https://github.com/victorCoutoDeRezende/victorCoutoDeRezende/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/victorCoutoDeRezende/victorCoutoDeRezende/blob/output/github-contribution-grid-snake.svg)
