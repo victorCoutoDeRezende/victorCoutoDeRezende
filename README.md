@@ -29,4 +29,4 @@ Foi na pandemia que descobri minha paixão pela área de TI, desde então tenho 
 </div>
 <hr>
 
-[![](https://visitcount.itsvg.in/api?id=victorCoutoDeRezende&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=victorCoutoDeRezende&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
