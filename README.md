@@ -24,8 +24,8 @@ Foi na pandemia que descobri minha paixão pela área de TI, desde então tenho 
 
 # 📊 GitHub Stats:
 <div style="display: inline_block;margin: 0;">
-  <img align="center" width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=victorCoutoDeRezende&theme=neon&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="center" width="49%" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorCoutoDeRezende&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img align="center" width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=victorCoutoDeRezende&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+  <img align="center" width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorCoutoDeRezende&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 </div>
 <hr>
 
