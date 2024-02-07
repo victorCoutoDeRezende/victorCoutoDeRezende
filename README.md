@@ -1,8 +1,8 @@
-# 💫 Hi! I'm Victor Couto, and I'm Computer Science Student:
-I’m currently studying Computer Science at Estácio de Sá University<br>in Niterói and my main focus is Python, but I’m open to learning new<br>technologies and experiencing the most diverse opportunities in the<br>IT field, which I love so much.<br><br><br>Here is where I share my projects and exercises, both to have quick<br>access to codes I’ve already made, and to serve as a portfolio for<br>eventual professional opportunities.
+# 💫 Olá! Eu sou Victor Couto, e eu sou um estudante de Ciência da Computação:
+Foi na pandemia que descobri minha paixão pela área de TI, desde então tenho estudado com afinco diversos assuntos da área. Comecei minha graduação em Ciência da Computação em 2022 e no momento estou no 5° período do curso. Simultaneamente ao bacharelado fiz diversos cursos em plataformas como Udemy, Alura e OneBitCode e estou atualmente buscando a oportunidade de um primeiro estágio para iniciar minha carreira profissional nessa área.<br><br><br>Aqui é onde eu compartilho meus projetos e exercícios, tanto para ter fácil<br>acesso a códigos que já fiz, tnto para servir como um portfolio para<br>eventuais oportunidades profissionais.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorcouto.123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-couto-627b4125b) [![Gmail](https://img.shields.io/badge/Gmail-%23333.svg?logo=gmail&logoColor=white)](mailto:victor.couto.rezende@gmail.com)
 
 # 💻 Tech Stack:
