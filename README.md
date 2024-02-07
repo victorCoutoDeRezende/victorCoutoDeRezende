@@ -22,11 +22,14 @@ Foi na pandemia que descobri minha paixão pela área de TI, desde então tenho 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-# 📊 GitHub Stats:
+# 📊 Status do Github:
 <div style="display: inline_block;margin: 0;">
-  <img align="center" width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=victorCoutoDeRezende&theme=dracula&show_icons=true&hide_border=true&count_private=true">
-  <img align="center" width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorCoutoDeRezende&theme=dracula&show_icons=true&hide_border=true&layout=compact">
+  <img align="center" width="50%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=victorCoutoDeRezende&theme=radical&hide_border=true">
+  <img align="center" width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorCoutoDeRezende&theme=radical&show_icons=true&hide_border=true&layout=compact">
 </div>
-<hr>
+
+# ✍️ Frase Dev Randômica
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=victorCoutoDeRezende&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
