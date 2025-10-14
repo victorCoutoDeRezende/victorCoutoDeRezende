@@ -1,5 +1,5 @@
 # 💫 Olá! Eu sou Victor Couto, e eu sou um estudante de Ciência da Computação:
-Foi na pandemia que descobri minha paixão pela área de TI, desde então tenho estudado com afinco diversos assuntos da área. Comecei minha graduação em Ciência da Computação em 2022 e no momento estou no 7° período do curso. Simultaneamente ao bacharelado fiz diversos cursos em plataformas como Udemy, Alura e OneBitCode e estou atualmente estagiando na Niterói Prev, autarquia do setor público relacionada à Previdência.
+Foi na pandemia que descobri minha paixão pela área de TI, desde então tenho estudado com afinco diversos assuntos da área. Comecei minha graduação em Ciência da Computação em 2022 e no momento estou no 8° período do curso. Simultaneamente ao bacharelado fiz diversos cursos em plataformas como Udemy, Alura e OneBitCode e estou atualmente estagiando na Niterói Prev, autarquia do setor público relacionada à Previdência.
 
 
 ## 🌐 Redes Sociais:
@@ -20,6 +20,8 @@ Foi na pandemia que descobri minha paixão pela área de TI, desde então tenho 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
 
 # 📊 Status do Github:
