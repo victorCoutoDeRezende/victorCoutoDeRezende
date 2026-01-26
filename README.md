@@ -29,8 +29,8 @@ Foi durante a pandemia que descobri minha paixão pela área de TI, desde então
 
 # 📊 Status do Github:
 <div style="display: inline_block;margin: 0;">
-
-  <img align="center" width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorCoutoDeRezende&theme=radical&show_icons=true&hide_border=true&layout=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorCoutoDeRezende&show_icons=true&theme=github_dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorCoutoDeRezende&layout=compact&theme=github_dark" />
 </div>
 
 # ✍️ Frase Dev Randômica
