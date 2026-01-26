@@ -1,5 +1,5 @@
 # 💫 Olá! Eu sou Victor Couto, e eu sou um estudante de Ciência da Computação:
-Foi na pandemia que descobri minha paixão pela área de TI, desde então tenho estudado com afinco diversos assuntos da área. Comecei minha graduação em Ciência da Computação em 2022 e no momento estou no 8° período do curso. Simultaneamente ao bacharelado fiz diversos cursos em plataformas como Udemy, Alura e OneBitCode e estou atualmente estagiando na Niterói Prev, autarquia do setor público relacionada à Previdência.
+Foi durante a pandemia que descobri minha paixão pela área de TI, desde então tenho estudado com afinco diversos assuntos da área. Comecei minha graduação em Ciência da Computação em 2022 e concluí em 2025. Simultaneamente ao bacharelado fiz diversos cursos em plataformas como Udemy, Alura e OneBitCode e concluí meu estágio na Niterói Prev, Autarquia Municipal Gestora de Previdência Social.
 
 
 ## 🌐 Redes Sociais:
@@ -11,8 +11,11 @@ Foi na pandemia que descobri minha paixão pela área de TI, desde então tenho 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
